@@ -1,0 +1,7 @@
+  Features:
+  
+  1. Themes (Premium Only)
+  2. Levels
+  3. Level Leaderboard
+  4. Bots (VERY easy to make.)
+  5. Easy opensource code.
